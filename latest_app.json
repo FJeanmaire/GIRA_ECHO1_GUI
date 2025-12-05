@@ -1,13 +1,12 @@
 {
   "windows": {
-    "version": "1.0.1",
-    "url": "https://github.com/FJeanmaire/GIRA_ECHO1_GUI/releases/download/1.0.1/gira-config-1.0.1.exe",
-    "sha256": "D83B6C67BC216ABBE6021699C400715774C8F4DBA579FAB641E88C6E1BB87E5B"
+    "version": "1.0.0",
+    "url": "https://github.com/FJeanmaire/GIRA_ECHO1_GUI/releases/download/1.0.0/GiraConfig.exe",
+    "sha256": "098bb9a23233bc53a89c3cf9a6eaae4523ee6c4377afcaff52b8b054c4cd1fd4"
   },
   "macos": {
-    "version": "1.0.1",
-    "url": "https://github.com/FJeanmaire/GIRA_ECHO1_GUI/releases/download/1.0.1/gira-config-1.0.1.app.zip",
-    "sha256": "43da7855d22893bf81d742d4e61738dd2916fc2236406c16a5081c94da6f6cbf"
+    "version": "1.0.0",
+    "url": "https://github.com/FJeanmaire/GIRA_ECHO1_GUI/releases/download/1.0.0/GiraConfig.app.zip",
+    "sha256": "71258069f527dc57bd171b9d3244c33ef9e83228021549c03e7680fca61a2d0d"
   }
 }
-
